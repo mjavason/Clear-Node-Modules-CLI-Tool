@@ -30,7 +30,7 @@ This will start the process of recursively searching for and deleting all `node_
 
 ### Options
 
-Currently, the tool does not support additional options or arguments. Future versions may include options for more granular control.
+Currently, the tool does not support additional options or arguments. Future versions may include options for more granular control. Ensure you point to a desired root folder. The extension will without exception delete any node_module folder found, including those belonging to apps.
 
 ## Features
 
