@@ -1,6 +1,6 @@
 {
   "name": "@mjavason/clear-node-modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to recursively delete all node_modules directories starting from the current directory.",
   "main": "clear-node-modules.js",
   "bin": {
