@@ -1,0 +1,25 @@
+{
+  "name": "@mjavason/clear-node-modules",
+  "version": "1.0.0",
+  "description": "A CLI tool to recursively delete all node_modules directories starting from the current directory.",
+  "main": "clear-node-modules.js",
+  "bin": {
+    "clear-node-modules": "clear-node-modules.js"
+  },
+  "scripts": {
+    "start": "node clear-node-modules.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clear",
+    "node_modules",
+    "cleanup",
+    "delete",
+    "directories"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^6.0.1"
+  }
+}
