@@ -26,7 +26,7 @@ To run the tool, simply execute the following command from your terminal:
 clear-node-modules
 ```
 
-This will start the process of recursively searching for and deleting all `node_modules` directories from the current directory downwards.
+This will start the process of recursively searching for and deleting all `node_modules` directories from the current directory downwards..
 
 ### Options
 
